@@ -11,7 +11,7 @@ Built around a conditional VAE + predictor ensemble, with nearest-neighbor looku
 - **BO**: Bayesian-optimization in latent space  
 
 ## Installation
-
+MUST RUN THE DATA-PREP FILE TO GET THE MATERIALS_DATASET.CSV FILE FOR THE OTHER FILES TO WORK
 git clone https://github.com/alpha4s/materials_design.git
 cd materials_design
 pip install -r requirements.txt
